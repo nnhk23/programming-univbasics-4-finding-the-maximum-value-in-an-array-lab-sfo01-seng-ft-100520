@@ -9,4 +9,5 @@ def find_max_value(array)
   end 
   max
   i += 1 
+end 
 end
