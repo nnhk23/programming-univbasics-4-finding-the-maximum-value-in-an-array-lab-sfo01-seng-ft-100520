@@ -8,5 +8,5 @@ def find_max_value(array)
   end 
   i += 1 
 end 
-return max
+puts max
 end
